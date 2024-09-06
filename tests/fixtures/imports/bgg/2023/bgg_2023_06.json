@@ -1,0 +1,147 @@
+{
+  "releases": [
+    {
+      "release_id": "dg-000000",
+      "title": "Release 0",
+      "designer": "Hargrave",
+      "year": "1997",
+      "edition": "deluxe",
+      "mechanics": "Drafting",
+      "componentlist": [
+        "Main board",
+        "Rulebook",
+        "Meeples"
+      ]
+    },
+    {
+      "release_id": "dg-000001",
+      "title": "Release 1",
+      "designer": "Teuber",
+      "year": "2008",
+      "edition": "kickstarter",
+      "mechanics": "Worker Placement",
+      "componentlist": [
+        "Main board",
+        "Rulebook",
+        "Meeples"
+      ]
+    },
+    {
+      "release_id": "dg-000002",
+      "title": "Release 2",
+      "designer": "Teuber",
+      "year": "2023",
+      "edition": "deluxe",
+      "mechanics": "Engine Builder",
+      "componentlist": [
+        "Main board",
+        "Rulebook",
+        "Meeples"
+      ]
+    },
+    {
+      "release_id": "dg-000003",
+      "title": "Release 3",
+      "designer": "Hargrave",
+      "year": "2017",
+      "edition": "kickstarter",
+      "mechanics": "Engine Builder",
+      "componentlist": [
+        "Main board",
+        "Rulebook",
+        "Meeples"
+      ]
+    },
+    {
+      "release_id": "dg-000004",
+      "title": "Release 4",
+      "designer": "Teuber",
+      "year": "2010",
+      "edition": "retail",
+      "mechanics": "Worker Placement",
+      "componentlist": [
+        "Main board",
+        "Rulebook",
+        "Meeples"
+      ]
+    },
+    {
+      "release_id": "dg-000005",
+      "title": "Release 5",
+      "designer": "Hargrave",
+      "year": "2008",
+      "edition": "kickstarter",
+      "mechanics": "Worker Placement",
+      "componentlist": [
+        "Main board",
+        "Rulebook",
+        "Meeples"
+      ]
+    },
+    {
+      "release_id": "dg-000006",
+      "title": "Release 6",
+      "designer": "Hargrave",
+      "year": "2000",
+      "edition": "kickstarter",
+      "mechanics": "Drafting",
+      "componentlist": [
+        "Main board",
+        "Rulebook",
+        "Meeples"
+      ]
+    },
+    {
+      "release_id": "dg-000007",
+      "title": "Release 7",
+      "designer": "Teuber",
+      "year": "2005",
+      "edition": "deluxe",
+      "mechanics": "Worker Placement",
+      "componentlist": [
+        "Main board",
+        "Rulebook",
+        "Meeples"
+      ]
+    },
+    {
+      "release_id": "dg-000008",
+      "title": "Release 8",
+      "designer": "Hargrave",
+      "year": "2016",
+      "edition": "kickstarter",
+      "mechanics": "Drafting",
+      "componentlist": [
+        "Main board",
+        "Rulebook",
+        "Meeples"
+      ]
+    },
+    {
+      "release_id": "dg-000009",
+      "title": "Release 9",
+      "designer": "Teuber",
+      "year": "2022",
+      "edition": "deluxe",
+      "mechanics": "Drafting",
+      "componentlist": [
+        "Main board",
+        "Rulebook",
+        "Meeples"
+      ]
+    },
+    {
+      "release_id": "dg-000010",
+      "title": "Release 10",
+      "designer": "Feld",
+      "year": "2009",
+      "edition": "deluxe",
+      "mechanics": "Drafting",
+      "componentlist": [
+        "Main board",
+        "Rulebook",
+        "Meeples"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "releases": [
+    {
+      "release_id": "dg-000000",
+      "title": "Release 0",
+      "designer": "Feld",
+      "year": "1998",
+      "edition": "kickstarter",
+      "mechanics": "Drafting",
+      "componentlist": [
+        "Main board",
+        "Rulebook",
+        "Meeples"
+      ]
+    },
+    {
+      "release_id": "dg-000001",
+      "title": "Release 1",
+      "designer": "Hargrave",
+      "year": "2023",
+      "edition": "kickstarter",
+      "mechanics": "Engine Builder",
+      "componentlist": [
+        "Main board",
+        "Rulebook",
+        "Meeples"
+      ]
+    },
+    {
+      "release_id": "dg-000002",
+      "title": "Release 2",
+      "designer": "Feld",
+      "year": "2012",
+      "edition": "kickstarter",
+      "mechanics": "Drafting",
+      "componentlist": [
+        "Main board",
+        "Rulebook",
+        "Meeples"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "releases": [
+    {
+      "release_id": "dg-000000",
+      "title": "Release 0",
+      "designer": "Hargrave",
+      "year": "2002",
+      "edition": "retail",
+      "mechanics": "Engine Builder",
+      "componentlist": [
+        "Main board",
+        "Rulebook",
+        "Meeples"
+      ]
+    },
+    {
+      "release_id": "dg-000001",
+      "title": "Release 1",
+      "designer": "Hargrave",
+      "year": "2019",
+      "edition": "deluxe",
+      "mechanics": "Engine Builder",
+      "componentlist": [
+        "Main board",
+        "Rulebook",
+        "Meeples"
+      ]
+    },
+    {
+      "release_id": "dg-000002",
+      "title": "Release 2",
+      "designer": "Teuber",
+      "year": "2008",
+      "edition": "deluxe",
+      "mechanics": "Worker Placement",
+      "componentlist": [
+        "Main board",
+        "Rulebook",
+        "Meeples"
+      ]
+    }
+  ]
+}

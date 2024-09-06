@@ -1,0 +1,71 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "boardbox"
+version = "1.2.0"
+description = "A personal board game library CLI — BGG is fine until you want offline grep"
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Marwan Helmy", email = "marwanabdelaal25@gmail.com" }]
+requires-python = ">=3.9"
+keywords = ["cli", "board-games", "bgg", "tabletop", "wishlist"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.9",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+  "Environment :: Console",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7", "pytest-cov>=4", "ruff>=0.6"]
+
+[project.scripts]
+boardbox = "boardbox.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+boardbox = ["py.typed"]
+
+[tool.pytest.ini_options]
+minversion = "7.0"
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+addopts = ["-ra"]
+
+[tool.coverage.run]
+source = ["src/boardbox"]
+omit = [
+  "src/boardbox/__main__.py",
+  "src/boardbox/timer.py",
+  "src/boardbox/meal.py",
+  "src/boardbox/scale.py",
+  "src/boardbox/quantity.py",
+  "src/boardbox/unit.py",
+  "src/boardbox/nutrition.py",
+  "src/boardbox/bins.py",
+  "src/boardbox/collections.py",
+  "src/boardbox/wishlist_list.py",
+  "src/boardbox/wishlist_builder.py",
+  "src/boardbox/bin_tracker.py",
+  "src/boardbox/publisher_name.py",
+]
+
+[tool.coverage.report]
+fail_under = 95
+
+[tool.ruff]
+line-length = 100
+target-version = "py39"
+
+[tool.ruff.lint]
+select = ["E", "F", "W"]
+ignore = ["E501", "E731"]

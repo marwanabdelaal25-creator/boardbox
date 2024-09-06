@@ -1,0 +1,2811 @@
+{
+  "schema_version": 2,
+  "meta": {
+    "name": "snapshot-2024",
+    "persona": "ameritrash_shelf"
+  },
+  "games": [
+    {
+      "id": "game-000000",
+      "title": "Ark Nova #0",
+      "designer_ids": [
+        "des-025"
+      ],
+      "year": 2011,
+      "playtime_min": 125,
+      "player_count": "3-6",
+      "mechanics": [
+        {
+          "title": "engine-builder",
+          "mechanic_number": "1",
+          "role": "secondary"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "2",
+          "role": "secondary"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "3",
+          "role": "variant"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "4",
+          "role": "secondary"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "5",
+          "role": "secondary"
+        },
+        {
+          "title": "engine-builder",
+          "mechanic_number": "6",
+          "role": "core"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "7",
+          "role": "secondary"
+        }
+      ],
+      "edition": "second_edition",
+      "box_edition": "shelf_wear",
+      "session_count": 30,
+      "tag_ids": [
+        "tag-17",
+        "tag-1"
+      ],
+      "release": {
+        "sku": "SKU-00000",
+        "country": "US"
+      }
+    },
+    {
+      "id": "game-000001",
+      "title": "Azul #1",
+      "designer_ids": [
+        "des-030"
+      ],
+      "year": 2019,
+      "playtime_min": 32,
+      "player_count": "1-6",
+      "mechanics": [
+        {
+          "title": "engine-builder",
+          "mechanic_number": "1",
+          "role": "variant"
+        },
+        {
+          "title": "engine-builder",
+          "mechanic_number": "2",
+          "role": "core"
+        },
+        {
+          "title": "engine-builder",
+          "mechanic_number": "3",
+          "role": "secondary"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "4",
+          "role": "core"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "5",
+          "role": "core"
+        }
+      ],
+      "edition": "deluxe",
+      "box_edition": "shelf_wear",
+      "session_count": 13,
+      "tag_ids": [
+        "tag-13",
+        "tag-1"
+      ],
+      "release": {
+        "sku": "SKU-00001",
+        "country": "UK"
+      }
+    },
+    {
+      "id": "game-000002",
+      "title": "Ticket to Ride #2",
+      "designer_ids": [
+        "des-019"
+      ],
+      "year": 1999,
+      "playtime_min": 108,
+      "player_count": "4-5",
+      "mechanics": [
+        {
+          "title": "worker-placement",
+          "mechanic_number": "1",
+          "role": "core"
+        },
+        {
+          "title": "engine-builder",
+          "mechanic_number": "2",
+          "role": "variant"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "3",
+          "role": "core"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "4",
+          "role": "variant"
+        }
+      ],
+      "edition": "deluxe",
+      "box_edition": "shelf_wear",
+      "session_count": 26,
+      "tag_ids": [
+        "tag-9",
+        "tag-6"
+      ],
+      "release": {
+        "sku": "SKU-00002",
+        "country": "UK"
+      }
+    },
+    {
+      "id": "game-000003",
+      "title": "Ark Nova #3",
+      "designer_ids": [
+        "des-027"
+      ],
+      "year": 2025,
+      "playtime_min": 145,
+      "player_count": "3-5",
+      "mechanics": [
+        {
+          "title": "area-control",
+          "mechanic_number": "1",
+          "role": "secondary"
+        },
+        {
+          "title": "engine-builder",
+          "mechanic_number": "2",
+          "role": "core"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "3",
+          "role": "secondary"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "4",
+          "role": "secondary"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "5",
+          "role": "variant"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "6",
+          "role": "variant"
+        }
+      ],
+      "edition": "second_edition",
+      "box_edition": "shelf_wear",
+      "session_count": 8,
+      "tag_ids": [],
+      "release": {
+        "sku": "SKU-00003",
+        "country": "CN"
+      }
+    },
+    {
+      "id": "game-000004",
+      "title": "Spirit Island #4",
+      "designer_ids": [
+        "des-040"
+      ],
+      "year": 2000,
+      "playtime_min": 88,
+      "player_count": "3-4",
+      "mechanics": [
+        {
+          "title": "co-op",
+          "mechanic_number": "1",
+          "role": "core"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "2",
+          "role": "secondary"
+        },
+        {
+          "title": "engine-builder",
+          "mechanic_number": "3",
+          "role": "core"
+        }
+      ],
+      "edition": "kickstarter",
+      "box_edition": "shelf_wear",
+      "session_count": 2,
+      "tag_ids": [],
+      "release": {
+        "sku": "SKU-00004",
+        "country": "DE"
+      }
+    },
+    {
+      "id": "game-000005",
+      "title": "Ark Nova #5",
+      "designer_ids": [
+        "des-016"
+      ],
+      "year": 2018,
+      "playtime_min": 90,
+      "player_count": "3-5",
+      "mechanics": [
+        {
+          "title": "deck-building",
+          "mechanic_number": "1",
+          "role": "secondary"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "2",
+          "role": "secondary"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "3",
+          "role": "variant"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "4",
+          "role": "variant"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "5",
+          "role": "secondary"
+        }
+      ],
+      "edition": "deluxe",
+      "box_edition": "shelf_wear",
+      "session_count": 33,
+      "tag_ids": [
+        "tag-10"
+      ],
+      "release": {
+        "sku": "SKU-00005",
+        "country": "UK"
+      }
+    },
+    {
+      "id": "game-000006",
+      "title": "Scythe #6",
+      "designer_ids": [
+        "des-010"
+      ],
+      "year": 2000,
+      "playtime_min": 178,
+      "player_count": "2-4",
+      "mechanics": [
+        {
+          "title": "co-op",
+          "mechanic_number": "1",
+          "role": "secondary"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "2",
+          "role": "variant"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "3",
+          "role": "variant"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "4",
+          "role": "core"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "5",
+          "role": "secondary"
+        }
+      ],
+      "edition": "kickstarter",
+      "box_edition": "mint",
+      "session_count": 5,
+      "tag_ids": [
+        "tag-8"
+      ],
+      "release": {
+        "sku": "SKU-00006",
+        "country": "US"
+      }
+    },
+    {
+      "id": "game-000007",
+      "title": "Pandemic #7",
+      "designer_ids": [
+        "des-031"
+      ],
+      "year": 1999,
+      "playtime_min": 90,
+      "player_count": "3-4",
+      "mechanics": [
+        {
+          "title": "worker-placement",
+          "mechanic_number": "1",
+          "role": "core"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "2",
+          "role": "secondary"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "3",
+          "role": "secondary"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "4",
+          "role": "variant"
+        }
+      ],
+      "edition": "kickstarter",
+      "box_edition": "good",
+      "session_count": 13,
+      "tag_ids": [],
+      "release": {
+        "sku": "SKU-00007",
+        "country": "DE"
+      }
+    },
+    {
+      "id": "game-000008",
+      "title": "Ticket to Ride #8",
+      "designer_ids": [
+        "des-016"
+      ],
+      "year": 1999,
+      "playtime_min": 104,
+      "player_count": "2-5",
+      "mechanics": [
+        {
+          "title": "worker-placement",
+          "mechanic_number": "1",
+          "role": "core"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "2",
+          "role": "secondary"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "3",
+          "role": "variant"
+        },
+        {
+          "title": "engine-builder",
+          "mechanic_number": "4",
+          "role": "variant"
+        }
+      ],
+      "edition": "deluxe",
+      "box_edition": "shelf_wear",
+      "session_count": 36,
+      "tag_ids": [
+        "tag-2",
+        "tag-17",
+        "tag-11"
+      ],
+      "release": {
+        "sku": "SKU-00008",
+        "country": "CN"
+      }
+    },
+    {
+      "id": "game-000009",
+      "title": "Terraforming Mars #9",
+      "designer_ids": [
+        "des-026"
+      ],
+      "year": 1997,
+      "playtime_min": 162,
+      "player_count": "3-6",
+      "mechanics": [
+        {
+          "title": "area-control",
+          "mechanic_number": "1",
+          "role": "variant"
+        },
+        {
+          "title": "engine-builder",
+          "mechanic_number": "2",
+          "role": "secondary"
+        },
+        {
+          "title": "engine-builder",
+          "mechanic_number": "3",
+          "role": "core"
+        }
+      ],
+      "edition": "retail",
+      "box_edition": "good",
+      "session_count": 8,
+      "tag_ids": [
+        "tag-15"
+      ],
+      "release": {
+        "sku": "SKU-00009",
+        "country": "US"
+      }
+    },
+    {
+      "id": "game-000010",
+      "title": "Brass: Birmingham #10",
+      "designer_ids": [
+        "des-032"
+      ],
+      "year": 1998,
+      "playtime_min": 102,
+      "player_count": "4-4",
+      "mechanics": [
+        {
+          "title": "engine-builder",
+          "mechanic_number": "1",
+          "role": "variant"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "2",
+          "role": "secondary"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "3",
+          "role": "secondary"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "4",
+          "role": "secondary"
+        },
+        {
+          "title": "engine-builder",
+          "mechanic_number": "5",
+          "role": "core"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "6",
+          "role": "variant"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "7",
+          "role": "variant"
+        }
+      ],
+      "edition": "kickstarter",
+      "box_edition": "shelf_wear",
+      "session_count": 34,
+      "tag_ids": [
+        "tag-5",
+        "tag-2",
+        "tag-17"
+      ],
+      "release": {
+        "sku": "SKU-00010",
+        "country": "DE"
+      }
+    },
+    {
+      "id": "game-000011",
+      "title": "Cascadia #11",
+      "designer_ids": [
+        "des-010"
+      ],
+      "year": 2001,
+      "playtime_min": 69,
+      "player_count": "4-4",
+      "mechanics": [
+        {
+          "title": "deck-building",
+          "mechanic_number": "1",
+          "role": "core"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "2",
+          "role": "core"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "3",
+          "role": "variant"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "4",
+          "role": "core"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "5",
+          "role": "secondary"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "6",
+          "role": "variant"
+        }
+      ],
+      "edition": "second_edition",
+      "box_edition": "mint",
+      "session_count": 4,
+      "tag_ids": [],
+      "release": {
+        "sku": "SKU-00011",
+        "country": "CN"
+      }
+    },
+    {
+      "id": "game-000012",
+      "title": "Wingspan #12",
+      "designer_ids": [
+        "des-038"
+      ],
+      "year": 2018,
+      "playtime_min": 71,
+      "player_count": "4-5",
+      "mechanics": [
+        {
+          "title": "co-op",
+          "mechanic_number": "1",
+          "role": "secondary"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "2",
+          "role": "secondary"
+        },
+        {
+          "title": "engine-builder",
+          "mechanic_number": "3",
+          "role": "secondary"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "4",
+          "role": "secondary"
+        },
+        {
+          "title": "engine-builder",
+          "mechanic_number": "5",
+          "role": "variant"
+        }
+      ],
+      "edition": "second_edition",
+      "box_edition": "good",
+      "session_count": 9,
+      "tag_ids": [],
+      "release": {
+        "sku": "SKU-00012",
+        "country": "DE"
+      }
+    },
+    {
+      "id": "game-000013",
+      "title": "Ticket to Ride #13",
+      "designer_ids": [
+        "des-037"
+      ],
+      "year": 2004,
+      "playtime_min": 53,
+      "player_count": "4-4",
+      "mechanics": [
+        {
+          "title": "deck-building",
+          "mechanic_number": "1",
+          "role": "variant"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "2",
+          "role": "variant"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "3",
+          "role": "secondary"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "4",
+          "role": "secondary"
+        }
+      ],
+      "edition": "retail",
+      "box_edition": "good",
+      "session_count": 1,
+      "tag_ids": [],
+      "release": {
+        "sku": "SKU-00013",
+        "country": "DE"
+      }
+    },
+    {
+      "id": "game-000014",
+      "title": "Spirit Island #14",
+      "designer_ids": [
+        "des-006"
+      ],
+      "year": 2003,
+      "playtime_min": 143,
+      "player_count": "3-4",
+      "mechanics": [
+        {
+          "title": "area-control",
+          "mechanic_number": "1",
+          "role": "core"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "2",
+          "role": "secondary"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "3",
+          "role": "core"
+        },
+        {
+          "title": "engine-builder",
+          "mechanic_number": "4",
+          "role": "variant"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "5",
+          "role": "variant"
+        }
+      ],
+      "edition": "deluxe",
+      "box_edition": "mint",
+      "session_count": 32,
+      "tag_ids": [
+        "tag-18",
+        "tag-19"
+      ],
+      "release": {
+        "sku": "SKU-00014",
+        "country": "UK"
+      }
+    },
+    {
+      "id": "game-000015",
+      "title": "Catan #15",
+      "designer_ids": [
+        "des-004"
+      ],
+      "year": 2025,
+      "playtime_min": 106,
+      "player_count": "2-4",
+      "mechanics": [
+        {
+          "title": "deck-building",
+          "mechanic_number": "1",
+          "role": "variant"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "2",
+          "role": "secondary"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "3",
+          "role": "secondary"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "4",
+          "role": "variant"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "5",
+          "role": "variant"
+        }
+      ],
+      "edition": "kickstarter",
+      "box_edition": "mint",
+      "session_count": 0,
+      "tag_ids": [
+        "tag-1",
+        "tag-13",
+        "tag-17"
+      ],
+      "release": {
+        "sku": "SKU-00015",
+        "country": "CN"
+      }
+    },
+    {
+      "id": "game-000016",
+      "title": "Dune: Imperium #16",
+      "designer_ids": [
+        "des-022"
+      ],
+      "year": 2002,
+      "playtime_min": 59,
+      "player_count": "4-4",
+      "mechanics": [
+        {
+          "title": "engine-builder",
+          "mechanic_number": "1",
+          "role": "secondary"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "2",
+          "role": "core"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "3",
+          "role": "variant"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "4",
+          "role": "core"
+        }
+      ],
+      "edition": "kickstarter",
+      "box_edition": "mint",
+      "session_count": 33,
+      "tag_ids": [
+        "tag-12",
+        "tag-18",
+        "tag-9"
+      ],
+      "release": {
+        "sku": "SKU-00016",
+        "country": "US"
+      }
+    },
+    {
+      "id": "game-000017",
+      "title": "Terraforming Mars #17",
+      "designer_ids": [
+        "des-019"
+      ],
+      "year": 1999,
+      "playtime_min": 130,
+      "player_count": "4-5",
+      "mechanics": [
+        {
+          "title": "area-control",
+          "mechanic_number": "1",
+          "role": "core"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "2",
+          "role": "core"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "3",
+          "role": "core"
+        }
+      ],
+      "edition": "retail",
+      "box_edition": "shelf_wear",
+      "session_count": 20,
+      "tag_ids": [
+        "tag-20",
+        "tag-9"
+      ],
+      "release": {
+        "sku": "SKU-00017",
+        "country": "DE"
+      }
+    },
+    {
+      "id": "game-000018",
+      "title": "Pandemic #18",
+      "designer_ids": [
+        "des-027"
+      ],
+      "year": 2000,
+      "playtime_min": 139,
+      "player_count": "3-5",
+      "mechanics": [
+        {
+          "title": "area-control",
+          "mechanic_number": "1",
+          "role": "secondary"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "2",
+          "role": "secondary"
+        },
+        {
+          "title": "engine-builder",
+          "mechanic_number": "3",
+          "role": "variant"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "4",
+          "role": "variant"
+        },
+        {
+          "title": "engine-builder",
+          "mechanic_number": "5",
+          "role": "secondary"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "6",
+          "role": "core"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "7",
+          "role": "variant"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "8",
+          "role": "variant"
+        }
+      ],
+      "edition": "deluxe",
+      "box_edition": "mint",
+      "session_count": 24,
+      "tag_ids": [
+        "tag-3",
+        "tag-18"
+      ],
+      "release": {
+        "sku": "SKU-00018",
+        "country": "US"
+      }
+    },
+    {
+      "id": "game-000019",
+      "title": "Azul #19",
+      "designer_ids": [
+        "des-028"
+      ],
+      "year": 2005,
+      "playtime_min": 27,
+      "player_count": "1-6",
+      "mechanics": [
+        {
+          "title": "engine-builder",
+          "mechanic_number": "1",
+          "role": "secondary"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "2",
+          "role": "variant"
+        },
+        {
+          "title": "engine-builder",
+          "mechanic_number": "3",
+          "role": "variant"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "4",
+          "role": "variant"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "5",
+          "role": "core"
+        }
+      ],
+      "edition": "deluxe",
+      "box_edition": "shelf_wear",
+      "session_count": 28,
+      "tag_ids": [
+        "tag-4",
+        "tag-2"
+      ],
+      "release": {
+        "sku": "SKU-00019",
+        "country": "CN"
+      }
+    },
+    {
+      "id": "game-000020",
+      "title": "Scythe #20",
+      "designer_ids": [
+        "des-019"
+      ],
+      "year": 2004,
+      "playtime_min": 70,
+      "player_count": "4-4",
+      "mechanics": [
+        {
+          "title": "co-op",
+          "mechanic_number": "1",
+          "role": "variant"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "2",
+          "role": "secondary"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "3",
+          "role": "secondary"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "4",
+          "role": "secondary"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "5",
+          "role": "secondary"
+        }
+      ],
+      "edition": "kickstarter",
+      "box_edition": "shelf_wear",
+      "session_count": 40,
+      "tag_ids": [
+        "tag-4",
+        "tag-10",
+        "tag-6"
+      ],
+      "release": {
+        "sku": "SKU-00020",
+        "country": "US"
+      }
+    },
+    {
+      "id": "game-000021",
+      "title": "Catan #21",
+      "designer_ids": [
+        "des-039"
+      ],
+      "year": 2005,
+      "playtime_min": 90,
+      "player_count": "1-6",
+      "mechanics": [
+        {
+          "title": "worker-placement",
+          "mechanic_number": "1",
+          "role": "variant"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "2",
+          "role": "variant"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "3",
+          "role": "secondary"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "4",
+          "role": "variant"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "5",
+          "role": "variant"
+        },
+        {
+          "title": "engine-builder",
+          "mechanic_number": "6",
+          "role": "secondary"
+        },
+        {
+          "title": "engine-builder",
+          "mechanic_number": "7",
+          "role": "core"
+        }
+      ],
+      "edition": "kickstarter",
+      "box_edition": "shelf_wear",
+      "session_count": 14,
+      "tag_ids": [
+        "tag-9"
+      ],
+      "release": {
+        "sku": "SKU-00021",
+        "country": "US"
+      }
+    },
+    {
+      "id": "game-000022",
+      "title": "Ticket to Ride #22",
+      "designer_ids": [
+        "des-005"
+      ],
+      "year": 2020,
+      "playtime_min": 121,
+      "player_count": "1-6",
+      "mechanics": [
+        {
+          "title": "area-control",
+          "mechanic_number": "1",
+          "role": "secondary"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "2",
+          "role": "core"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "3",
+          "role": "core"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "4",
+          "role": "variant"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "5",
+          "role": "secondary"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "6",
+          "role": "core"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "7",
+          "role": "variant"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "8",
+          "role": "core"
+        }
+      ],
+      "edition": "retail",
+      "box_edition": "good",
+      "session_count": 17,
+      "tag_ids": [
+        "tag-20",
+        "tag-7"
+      ],
+      "release": {
+        "sku": "SKU-00022",
+        "country": "US"
+      }
+    },
+    {
+      "id": "game-000023",
+      "title": "Gloomhaven #23",
+      "designer_ids": [
+        "des-016"
+      ],
+      "year": 2022,
+      "playtime_min": 47,
+      "player_count": "3-6",
+      "mechanics": [
+        {
+          "title": "engine-builder",
+          "mechanic_number": "1",
+          "role": "variant"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "2",
+          "role": "variant"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "3",
+          "role": "core"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "4",
+          "role": "core"
+        }
+      ],
+      "edition": "kickstarter",
+      "box_edition": "mint",
+      "session_count": 7,
+      "tag_ids": [
+        "tag-3",
+        "tag-3"
+      ],
+      "release": {
+        "sku": "SKU-00023",
+        "country": "UK"
+      }
+    },
+    {
+      "id": "game-000024",
+      "title": "Dune: Imperium #24",
+      "designer_ids": [
+        "des-037"
+      ],
+      "year": 2018,
+      "playtime_min": 138,
+      "player_count": "3-4",
+      "mechanics": [
+        {
+          "title": "area-control",
+          "mechanic_number": "1",
+          "role": "core"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "2",
+          "role": "core"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "3",
+          "role": "core"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "4",
+          "role": "core"
+        },
+        {
+          "title": "engine-builder",
+          "mechanic_number": "5",
+          "role": "secondary"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "6",
+          "role": "variant"
+        }
+      ],
+      "edition": "second_edition",
+      "box_edition": "good",
+      "session_count": 17,
+      "tag_ids": [],
+      "release": {
+        "sku": "SKU-00024",
+        "country": "DE"
+      }
+    },
+    {
+      "id": "game-000025",
+      "title": "Catan #25",
+      "designer_ids": [
+        "des-022"
+      ],
+      "year": 2015,
+      "playtime_min": 74,
+      "player_count": "4-6",
+      "mechanics": [
+        {
+          "title": "area-control",
+          "mechanic_number": "1",
+          "role": "secondary"
+        },
+        {
+          "title": "engine-builder",
+          "mechanic_number": "2",
+          "role": "core"
+        },
+        {
+          "title": "engine-builder",
+          "mechanic_number": "3",
+          "role": "secondary"
+        }
+      ],
+      "edition": "retail",
+      "box_edition": "shelf_wear",
+      "session_count": 4,
+      "tag_ids": [
+        "tag-18",
+        "tag-14",
+        "tag-8"
+      ],
+      "release": {
+        "sku": "SKU-00025",
+        "country": "DE"
+      }
+    },
+    {
+      "id": "game-000026",
+      "title": "Catan #26",
+      "designer_ids": [
+        "des-036"
+      ],
+      "year": 2015,
+      "playtime_min": 129,
+      "player_count": "2-5",
+      "mechanics": [
+        {
+          "title": "engine-builder",
+          "mechanic_number": "1",
+          "role": "secondary"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "2",
+          "role": "core"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "3",
+          "role": "variant"
+        }
+      ],
+      "edition": "kickstarter",
+      "box_edition": "mint",
+      "session_count": 28,
+      "tag_ids": [
+        "tag-13",
+        "tag-15",
+        "tag-19"
+      ],
+      "release": {
+        "sku": "SKU-00026",
+        "country": "CN"
+      }
+    },
+    {
+      "id": "game-000027",
+      "title": "Dune: Imperium #27",
+      "designer_ids": [
+        "des-022"
+      ],
+      "year": 1998,
+      "playtime_min": 49,
+      "player_count": "4-5",
+      "mechanics": [
+        {
+          "title": "area-control",
+          "mechanic_number": "1",
+          "role": "variant"
+        },
+        {
+          "title": "engine-builder",
+          "mechanic_number": "2",
+          "role": "core"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "3",
+          "role": "secondary"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "4",
+          "role": "core"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "5",
+          "role": "secondary"
+        },
+        {
+          "title": "engine-builder",
+          "mechanic_number": "6",
+          "role": "variant"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "7",
+          "role": "variant"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "8",
+          "role": "secondary"
+        }
+      ],
+      "edition": "deluxe",
+      "box_edition": "good",
+      "session_count": 23,
+      "tag_ids": [
+        "tag-13"
+      ],
+      "release": {
+        "sku": "SKU-00027",
+        "country": "US"
+      }
+    },
+    {
+      "id": "game-000028",
+      "title": "Brass: Birmingham #28",
+      "designer_ids": [
+        "des-001"
+      ],
+      "year": 2004,
+      "playtime_min": 167,
+      "player_count": "4-5",
+      "mechanics": [
+        {
+          "title": "deck-building",
+          "mechanic_number": "1",
+          "role": "variant"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "2",
+          "role": "secondary"
+        },
+        {
+          "title": "engine-builder",
+          "mechanic_number": "3",
+          "role": "variant"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "4",
+          "role": "core"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "5",
+          "role": "secondary"
+        }
+      ],
+      "edition": "kickstarter",
+      "box_edition": "good",
+      "session_count": 0,
+      "tag_ids": [],
+      "release": {
+        "sku": "SKU-00028",
+        "country": "CN"
+      }
+    },
+    {
+      "id": "game-000029",
+      "title": "Cascadia #29",
+      "designer_ids": [
+        "des-032"
+      ],
+      "year": 2007,
+      "playtime_min": 27,
+      "player_count": "2-4",
+      "mechanics": [
+        {
+          "title": "worker-placement",
+          "mechanic_number": "1",
+          "role": "variant"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "2",
+          "role": "variant"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "3",
+          "role": "secondary"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "4",
+          "role": "secondary"
+        },
+        {
+          "title": "engine-builder",
+          "mechanic_number": "5",
+          "role": "core"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "6",
+          "role": "core"
+        },
+        {
+          "title": "engine-builder",
+          "mechanic_number": "7",
+          "role": "secondary"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "8",
+          "role": "core"
+        }
+      ],
+      "edition": "kickstarter",
+      "box_edition": "good",
+      "session_count": 12,
+      "tag_ids": [],
+      "release": {
+        "sku": "SKU-00029",
+        "country": "UK"
+      }
+    },
+    {
+      "id": "game-000030",
+      "title": "Azul #30",
+      "designer_ids": [
+        "des-036"
+      ],
+      "year": 2020,
+      "playtime_min": 66,
+      "player_count": "1-5",
+      "mechanics": [
+        {
+          "title": "worker-placement",
+          "mechanic_number": "1",
+          "role": "secondary"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "2",
+          "role": "core"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "3",
+          "role": "secondary"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "4",
+          "role": "secondary"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "5",
+          "role": "secondary"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "6",
+          "role": "core"
+        }
+      ],
+      "edition": "deluxe",
+      "box_edition": "good",
+      "session_count": 13,
+      "tag_ids": [
+        "tag-20",
+        "tag-12",
+        "tag-15"
+      ],
+      "release": {
+        "sku": "SKU-00030",
+        "country": "UK"
+      }
+    },
+    {
+      "id": "game-000031",
+      "title": "Everdell #31",
+      "designer_ids": [
+        "des-009"
+      ],
+      "year": 2011,
+      "playtime_min": 170,
+      "player_count": "2-4",
+      "mechanics": [
+        {
+          "title": "co-op",
+          "mechanic_number": "1",
+          "role": "secondary"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "2",
+          "role": "secondary"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "3",
+          "role": "core"
+        }
+      ],
+      "edition": "retail",
+      "box_edition": "shelf_wear",
+      "session_count": 20,
+      "tag_ids": [
+        "tag-13"
+      ],
+      "release": {
+        "sku": "SKU-00031",
+        "country": "US"
+      }
+    },
+    {
+      "id": "game-000032",
+      "title": "Terraforming Mars #32",
+      "designer_ids": [
+        "des-031"
+      ],
+      "year": 2013,
+      "playtime_min": 139,
+      "player_count": "4-5",
+      "mechanics": [
+        {
+          "title": "engine-builder",
+          "mechanic_number": "1",
+          "role": "variant"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "2",
+          "role": "variant"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "3",
+          "role": "variant"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "4",
+          "role": "core"
+        }
+      ],
+      "edition": "second_edition",
+      "box_edition": "mint",
+      "session_count": 29,
+      "tag_ids": [
+        "tag-11",
+        "tag-2"
+      ],
+      "release": {
+        "sku": "SKU-00032",
+        "country": "US"
+      }
+    },
+    {
+      "id": "game-000033",
+      "title": "Ticket to Ride #33",
+      "designer_ids": [
+        "des-034"
+      ],
+      "year": 1998,
+      "playtime_min": 88,
+      "player_count": "2-5",
+      "mechanics": [
+        {
+          "title": "area-control",
+          "mechanic_number": "1",
+          "role": "secondary"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "2",
+          "role": "secondary"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "3",
+          "role": "core"
+        }
+      ],
+      "edition": "retail",
+      "box_edition": "mint",
+      "session_count": 22,
+      "tag_ids": [
+        "tag-2",
+        "tag-9"
+      ],
+      "release": {
+        "sku": "SKU-00033",
+        "country": "CN"
+      }
+    },
+    {
+      "id": "game-000034",
+      "title": "Spirit Island #34",
+      "designer_ids": [
+        "des-024"
+      ],
+      "year": 2022,
+      "playtime_min": 36,
+      "player_count": "4-5",
+      "mechanics": [
+        {
+          "title": "worker-placement",
+          "mechanic_number": "1",
+          "role": "variant"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "2",
+          "role": "secondary"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "3",
+          "role": "variant"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "4",
+          "role": "core"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "5",
+          "role": "variant"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "6",
+          "role": "secondary"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "7",
+          "role": "variant"
+        }
+      ],
+      "edition": "second_edition",
+      "box_edition": "shelf_wear",
+      "session_count": 30,
+      "tag_ids": [
+        "tag-7",
+        "tag-4"
+      ],
+      "release": {
+        "sku": "SKU-00034",
+        "country": "UK"
+      }
+    },
+    {
+      "id": "game-000035",
+      "title": "Cascadia #35",
+      "designer_ids": [
+        "des-016"
+      ],
+      "year": 2018,
+      "playtime_min": 163,
+      "player_count": "3-5",
+      "mechanics": [
+        {
+          "title": "engine-builder",
+          "mechanic_number": "1",
+          "role": "variant"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "2",
+          "role": "variant"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "3",
+          "role": "variant"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "4",
+          "role": "variant"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "5",
+          "role": "secondary"
+        }
+      ],
+      "edition": "deluxe",
+      "box_edition": "good",
+      "session_count": 28,
+      "tag_ids": [
+        "tag-8",
+        "tag-20",
+        "tag-9"
+      ],
+      "release": {
+        "sku": "SKU-00035",
+        "country": "US"
+      }
+    },
+    {
+      "id": "game-000036",
+      "title": "Scythe #36",
+      "designer_ids": [
+        "des-035"
+      ],
+      "year": 2019,
+      "playtime_min": 85,
+      "player_count": "4-5",
+      "mechanics": [
+        {
+          "title": "co-op",
+          "mechanic_number": "1",
+          "role": "secondary"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "2",
+          "role": "variant"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "3",
+          "role": "secondary"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "4",
+          "role": "variant"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "5",
+          "role": "variant"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "6",
+          "role": "variant"
+        },
+        {
+          "title": "engine-builder",
+          "mechanic_number": "7",
+          "role": "secondary"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "8",
+          "role": "secondary"
+        }
+      ],
+      "edition": "kickstarter",
+      "box_edition": "shelf_wear",
+      "session_count": 33,
+      "tag_ids": [],
+      "release": {
+        "sku": "SKU-00036",
+        "country": "UK"
+      }
+    },
+    {
+      "id": "game-000037",
+      "title": "Spirit Island #37",
+      "designer_ids": [
+        "des-008"
+      ],
+      "year": 1999,
+      "playtime_min": 87,
+      "player_count": "4-4",
+      "mechanics": [
+        {
+          "title": "area-control",
+          "mechanic_number": "1",
+          "role": "core"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "2",
+          "role": "variant"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "3",
+          "role": "variant"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "4",
+          "role": "secondary"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "5",
+          "role": "variant"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "6",
+          "role": "variant"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "7",
+          "role": "variant"
+        }
+      ],
+      "edition": "deluxe",
+      "box_edition": "good",
+      "session_count": 11,
+      "tag_ids": [
+        "tag-3",
+        "tag-17"
+      ],
+      "release": {
+        "sku": "SKU-00037",
+        "country": "CN"
+      }
+    },
+    {
+      "id": "game-000038",
+      "title": "Ark Nova #38",
+      "designer_ids": [
+        "des-036"
+      ],
+      "year": 2007,
+      "playtime_min": 64,
+      "player_count": "4-4",
+      "mechanics": [
+        {
+          "title": "engine-builder",
+          "mechanic_number": "1",
+          "role": "core"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "2",
+          "role": "variant"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "3",
+          "role": "core"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "4",
+          "role": "secondary"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "5",
+          "role": "variant"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "6",
+          "role": "variant"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "7",
+          "role": "secondary"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "8",
+          "role": "secondary"
+        }
+      ],
+      "edition": "kickstarter",
+      "box_edition": "mint",
+      "session_count": 16,
+      "tag_ids": [
+        "tag-20",
+        "tag-6",
+        "tag-3"
+      ],
+      "release": {
+        "sku": "SKU-00038",
+        "country": "DE"
+      }
+    },
+    {
+      "id": "game-000039",
+      "title": "Pandemic #39",
+      "designer_ids": [
+        "des-021"
+      ],
+      "year": 2023,
+      "playtime_min": 25,
+      "player_count": "4-6",
+      "mechanics": [
+        {
+          "title": "area-control",
+          "mechanic_number": "1",
+          "role": "core"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "2",
+          "role": "secondary"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "3",
+          "role": "variant"
+        },
+        {
+          "title": "engine-builder",
+          "mechanic_number": "4",
+          "role": "variant"
+        }
+      ],
+      "edition": "second_edition",
+      "box_edition": "good",
+      "session_count": 22,
+      "tag_ids": [
+        "tag-10"
+      ],
+      "release": {
+        "sku": "SKU-00039",
+        "country": "US"
+      }
+    },
+    {
+      "id": "game-000040",
+      "title": "Everdell #40",
+      "designer_ids": [
+        "des-039"
+      ],
+      "year": 2022,
+      "playtime_min": 70,
+      "player_count": "4-6",
+      "mechanics": [
+        {
+          "title": "area-control",
+          "mechanic_number": "1",
+          "role": "variant"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "2",
+          "role": "core"
+        },
+        {
+          "title": "engine-builder",
+          "mechanic_number": "3",
+          "role": "core"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "4",
+          "role": "secondary"
+        }
+      ],
+      "edition": "retail",
+      "box_edition": "mint",
+      "session_count": 16,
+      "tag_ids": [
+        "tag-14",
+        "tag-7",
+        "tag-20"
+      ],
+      "release": {
+        "sku": "SKU-00040",
+        "country": "US"
+      }
+    },
+    {
+      "id": "game-000041",
+      "title": "Gloomhaven #41",
+      "designer_ids": [
+        "des-016"
+      ],
+      "year": 2011,
+      "playtime_min": 137,
+      "player_count": "2-6",
+      "mechanics": [
+        {
+          "title": "worker-placement",
+          "mechanic_number": "1",
+          "role": "core"
+        },
+        {
+          "title": "engine-builder",
+          "mechanic_number": "2",
+          "role": "core"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "3",
+          "role": "secondary"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "4",
+          "role": "secondary"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "5",
+          "role": "secondary"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "6",
+          "role": "secondary"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "7",
+          "role": "secondary"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "8",
+          "role": "secondary"
+        }
+      ],
+      "edition": "retail",
+      "box_edition": "shelf_wear",
+      "session_count": 9,
+      "tag_ids": [],
+      "release": {
+        "sku": "SKU-00041",
+        "country": "US"
+      }
+    },
+    {
+      "id": "game-000042",
+      "title": "Cascadia #42",
+      "designer_ids": [
+        "des-031"
+      ],
+      "year": 2002,
+      "playtime_min": 143,
+      "player_count": "3-5",
+      "mechanics": [
+        {
+          "title": "deck-building",
+          "mechanic_number": "1",
+          "role": "core"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "2",
+          "role": "variant"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "3",
+          "role": "core"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "4",
+          "role": "variant"
+        }
+      ],
+      "edition": "retail",
+      "box_edition": "good",
+      "session_count": 9,
+      "tag_ids": [
+        "tag-9",
+        "tag-16",
+        "tag-11"
+      ],
+      "release": {
+        "sku": "SKU-00042",
+        "country": "DE"
+      }
+    },
+    {
+      "id": "game-000043",
+      "title": "Ticket to Ride #43",
+      "designer_ids": [
+        "des-025"
+      ],
+      "year": 1995,
+      "playtime_min": 148,
+      "player_count": "3-5",
+      "mechanics": [
+        {
+          "title": "area-control",
+          "mechanic_number": "1",
+          "role": "secondary"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "2",
+          "role": "secondary"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "3",
+          "role": "variant"
+        }
+      ],
+      "edition": "second_edition",
+      "box_edition": "mint",
+      "session_count": 5,
+      "tag_ids": [
+        "tag-15",
+        "tag-7"
+      ],
+      "release": {
+        "sku": "SKU-00043",
+        "country": "US"
+      }
+    },
+    {
+      "id": "game-000044",
+      "title": "Wingspan #44",
+      "designer_ids": [
+        "des-006"
+      ],
+      "year": 2002,
+      "playtime_min": 124,
+      "player_count": "1-5",
+      "mechanics": [
+        {
+          "title": "worker-placement",
+          "mechanic_number": "1",
+          "role": "core"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "2",
+          "role": "core"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "3",
+          "role": "variant"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "4",
+          "role": "variant"
+        }
+      ],
+      "edition": "retail",
+      "box_edition": "good",
+      "session_count": 27,
+      "tag_ids": [],
+      "release": {
+        "sku": "SKU-00044",
+        "country": "US"
+      }
+    },
+    {
+      "id": "game-000045",
+      "title": "Cascadia #45",
+      "designer_ids": [
+        "des-024"
+      ],
+      "year": 2014,
+      "playtime_min": 138,
+      "player_count": "4-6",
+      "mechanics": [
+        {
+          "title": "area-control",
+          "mechanic_number": "1",
+          "role": "variant"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "2",
+          "role": "variant"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "3",
+          "role": "variant"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "4",
+          "role": "secondary"
+        },
+        {
+          "title": "engine-builder",
+          "mechanic_number": "5",
+          "role": "variant"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "6",
+          "role": "variant"
+        },
+        {
+          "title": "engine-builder",
+          "mechanic_number": "7",
+          "role": "variant"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "8",
+          "role": "variant"
+        }
+      ],
+      "edition": "kickstarter",
+      "box_edition": "shelf_wear",
+      "session_count": 12,
+      "tag_ids": [
+        "tag-18"
+      ],
+      "release": {
+        "sku": "SKU-00045",
+        "country": "US"
+      }
+    },
+    {
+      "id": "game-000046",
+      "title": "Ticket to Ride #46",
+      "designer_ids": [
+        "des-017"
+      ],
+      "year": 2002,
+      "playtime_min": 77,
+      "player_count": "1-6",
+      "mechanics": [
+        {
+          "title": "deck-building",
+          "mechanic_number": "1",
+          "role": "core"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "2",
+          "role": "variant"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "3",
+          "role": "core"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "4",
+          "role": "secondary"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "5",
+          "role": "variant"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "6",
+          "role": "secondary"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "7",
+          "role": "secondary"
+        }
+      ],
+      "edition": "deluxe",
+      "box_edition": "good",
+      "session_count": 39,
+      "tag_ids": [
+        "tag-5"
+      ],
+      "release": {
+        "sku": "SKU-00046",
+        "country": "US"
+      }
+    },
+    {
+      "id": "game-000047",
+      "title": "Spirit Island #47",
+      "designer_ids": [
+        "des-010"
+      ],
+      "year": 2011,
+      "playtime_min": 170,
+      "player_count": "1-6",
+      "mechanics": [
+        {
+          "title": "area-control",
+          "mechanic_number": "1",
+          "role": "variant"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "2",
+          "role": "variant"
+        },
+        {
+          "title": "engine-builder",
+          "mechanic_number": "3",
+          "role": "core"
+        }
+      ],
+      "edition": "second_edition",
+      "box_edition": "mint",
+      "session_count": 10,
+      "tag_ids": [
+        "tag-14",
+        "tag-17"
+      ],
+      "release": {
+        "sku": "SKU-00047",
+        "country": "US"
+      }
+    },
+    {
+      "id": "game-000048",
+      "title": "Ark Nova #48",
+      "designer_ids": [
+        "des-035"
+      ],
+      "year": 2019,
+      "playtime_min": 49,
+      "player_count": "3-6",
+      "mechanics": [
+        {
+          "title": "deck-building",
+          "mechanic_number": "1",
+          "role": "core"
+        },
+        {
+          "title": "engine-builder",
+          "mechanic_number": "2",
+          "role": "variant"
+        },
+        {
+          "title": "engine-builder",
+          "mechanic_number": "3",
+          "role": "variant"
+        },
+        {
+          "title": "engine-builder",
+          "mechanic_number": "4",
+          "role": "secondary"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "5",
+          "role": "variant"
+        }
+      ],
+      "edition": "kickstarter",
+      "box_edition": "mint",
+      "session_count": 35,
+      "tag_ids": [
+        "tag-10"
+      ],
+      "release": {
+        "sku": "SKU-00048",
+        "country": "UK"
+      }
+    },
+    {
+      "id": "game-000049",
+      "title": "Root #49",
+      "designer_ids": [
+        "des-010"
+      ],
+      "year": 2019,
+      "playtime_min": 93,
+      "player_count": "1-6",
+      "mechanics": [
+        {
+          "title": "worker-placement",
+          "mechanic_number": "1",
+          "role": "core"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "2",
+          "role": "variant"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "3",
+          "role": "variant"
+        }
+      ],
+      "edition": "deluxe",
+      "box_edition": "good",
+      "session_count": 29,
+      "tag_ids": [
+        "tag-8",
+        "tag-8",
+        "tag-17"
+      ],
+      "release": {
+        "sku": "SKU-00049",
+        "country": "UK"
+      }
+    },
+    {
+      "id": "game-000050",
+      "title": "Pandemic #50",
+      "designer_ids": [
+        "des-007"
+      ],
+      "year": 2017,
+      "playtime_min": 93,
+      "player_count": "1-5",
+      "mechanics": [
+        {
+          "title": "engine-builder",
+          "mechanic_number": "1",
+          "role": "core"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "2",
+          "role": "secondary"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "3",
+          "role": "secondary"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "4",
+          "role": "secondary"
+        }
+      ],
+      "edition": "deluxe",
+      "box_edition": "shelf_wear",
+      "session_count": 25,
+      "tag_ids": [
+        "tag-13"
+      ],
+      "release": {
+        "sku": "SKU-00050",
+        "country": "US"
+      }
+    },
+    {
+      "id": "game-000051",
+      "title": "Brass: Birmingham #51",
+      "designer_ids": [
+        "des-014"
+      ],
+      "year": 2019,
+      "playtime_min": 93,
+      "player_count": "4-6",
+      "mechanics": [
+        {
+          "title": "engine-builder",
+          "mechanic_number": "1",
+          "role": "core"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "2",
+          "role": "core"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "3",
+          "role": "variant"
+        },
+        {
+          "title": "engine-builder",
+          "mechanic_number": "4",
+          "role": "secondary"
+        }
+      ],
+      "edition": "retail",
+      "box_edition": "mint",
+      "session_count": 1,
+      "tag_ids": [
+        "tag-4",
+        "tag-4"
+      ],
+      "release": {
+        "sku": "SKU-00051",
+        "country": "US"
+      }
+    },
+    {
+      "id": "game-000052",
+      "title": "Terraforming Mars #52",
+      "designer_ids": [
+        "des-028"
+      ],
+      "year": 2013,
+      "playtime_min": 38,
+      "player_count": "2-4",
+      "mechanics": [
+        {
+          "title": "deck-building",
+          "mechanic_number": "1",
+          "role": "secondary"
+        },
+        {
+          "title": "engine-builder",
+          "mechanic_number": "2",
+          "role": "variant"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "3",
+          "role": "variant"
+        }
+      ],
+      "edition": "retail",
+      "box_edition": "good",
+      "session_count": 27,
+      "tag_ids": [],
+      "release": {
+        "sku": "SKU-00052",
+        "country": "DE"
+      }
+    },
+    {
+      "id": "game-000053",
+      "title": "Dune: Imperium #53",
+      "designer_ids": [
+        "des-033"
+      ],
+      "year": 1999,
+      "playtime_min": 20,
+      "player_count": "1-4",
+      "mechanics": [
+        {
+          "title": "deck-building",
+          "mechanic_number": "1",
+          "role": "variant"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "2",
+          "role": "variant"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "3",
+          "role": "variant"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "4",
+          "role": "variant"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "5",
+          "role": "variant"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "6",
+          "role": "core"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "7",
+          "role": "core"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "8",
+          "role": "secondary"
+        }
+      ],
+      "edition": "kickstarter",
+      "box_edition": "good",
+      "session_count": 24,
+      "tag_ids": [
+        "tag-18",
+        "tag-12",
+        "tag-5"
+      ],
+      "release": {
+        "sku": "SKU-00053",
+        "country": "DE"
+      }
+    },
+    {
+      "id": "game-000054",
+      "title": "Root #54",
+      "designer_ids": [
+        "des-012"
+      ],
+      "year": 2010,
+      "playtime_min": 113,
+      "player_count": "4-5",
+      "mechanics": [
+        {
+          "title": "worker-placement",
+          "mechanic_number": "1",
+          "role": "secondary"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "2",
+          "role": "secondary"
+        },
+        {
+          "title": "co-op",
+          "mechanic_number": "3",
+          "role": "variant"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "4",
+          "role": "core"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "5",
+          "role": "variant"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "6",
+          "role": "secondary"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "7",
+          "role": "variant"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "8",
+          "role": "core"
+        }
+      ],
+      "edition": "deluxe",
+      "box_edition": "shelf_wear",
+      "session_count": 3,
+      "tag_ids": [
+        "tag-2",
+        "tag-16"
+      ],
+      "release": {
+        "sku": "SKU-00054",
+        "country": "DE"
+      }
+    },
+    {
+      "id": "game-000055",
+      "title": "Ticket to Ride #55",
+      "designer_ids": [
+        "des-008"
+      ],
+      "year": 2001,
+      "playtime_min": 84,
+      "player_count": "3-6",
+      "mechanics": [
+        {
+          "title": "area-control",
+          "mechanic_number": "1",
+          "role": "variant"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "2",
+          "role": "core"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "3",
+          "role": "core"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "4",
+          "role": "variant"
+        },
+        {
+          "title": "engine-builder",
+          "mechanic_number": "5",
+          "role": "secondary"
+        },
+        {
+          "title": "engine-builder",
+          "mechanic_number": "6",
+          "role": "variant"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "7",
+          "role": "variant"
+        }
+      ],
+      "edition": "kickstarter",
+      "box_edition": "good",
+      "session_count": 3,
+      "tag_ids": [
+        "tag-8",
+        "tag-1"
+      ],
+      "release": {
+        "sku": "SKU-00055",
+        "country": "DE"
+      }
+    },
+    {
+      "id": "game-000056",
+      "title": "Azul #56",
+      "designer_ids": [
+        "des-015"
+      ],
+      "year": 1996,
+      "playtime_min": 95,
+      "player_count": "3-5",
+      "mechanics": [
+        {
+          "title": "engine-builder",
+          "mechanic_number": "1",
+          "role": "secondary"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "2",
+          "role": "core"
+        },
+        {
+          "title": "area-control",
+          "mechanic_number": "3",
+          "role": "variant"
+        },
+        {
+          "title": "worker-placement",
+          "mechanic_number": "4",
+          "role": "variant"
+        },
+        {
+          "title": "engine-builder",
+          "mechanic_number": "5",
+          "role": "secondary"
+        }
+      ],
+      "edition": "kickstarter",
+      "box_edition": "good",
+      "session_count": 31,
+      "tag_ids": [],
+      "release": {
+        "sku": "SKU-00056",
+        "country": "DE"
+      }
+    },
+    {
+      "id": "game-000057",
+      "title": "Catan #57",
+      "designer_ids": [
+        "des-024"
+      ],
+      "year": 2019,
+      "playtime_min": 48,
+      "player_count": "1-4",
+      "mechanics": [
+        {
+          "title": "area-control",
+          "mechanic_number": "1",
+          "role": "core"
+        },
+        {
+          "title": "deck-building",
+          "mechanic_number": "2",
+          "role": "variant"
+        },
+        {
+          "title": "engine-builder",
+          "mechanic_number": "3",
+          "role": "core"
+        }
+      ],
+      "edition": "deluxe",
+      "box_edition": "mint",
+      "session_count": 4,
+      "tag_ids": [
+        "tag-13"
+      ],
+      "release": {
+        "sku": "SKU-00057",
+        "country": "DE"
+      }
+    }
+  ],
+  "sessions": [],
+  "wishlist": [],
+  "tags": []
+}

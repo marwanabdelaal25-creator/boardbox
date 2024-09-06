@@ -1,0 +1,82 @@
+{
+  "releases": [
+    {
+      "release_id": "dg-000000",
+      "title": "Release 0",
+      "designer": "Hargrave",
+      "year": "2022",
+      "edition": "kickstarter",
+      "mechanics": "Worker Placement",
+      "componentlist": [
+        "Main board",
+        "Rulebook",
+        "Meeples"
+      ]
+    },
+    {
+      "release_id": "dg-000001",
+      "title": "Release 1",
+      "designer": "Hargrave",
+      "year": "2010",
+      "edition": "kickstarter",
+      "mechanics": "Worker Placement",
+      "componentlist": [
+        "Main board",
+        "Rulebook",
+        "Meeples"
+      ]
+    },
+    {
+      "release_id": "dg-000002",
+      "title": "Release 2",
+      "designer": "Hargrave",
+      "year": "2006",
+      "edition": "retail",
+      "mechanics": "Drafting",
+      "componentlist": [
+        "Main board",
+        "Rulebook",
+        "Meeples"
+      ]
+    },
+    {
+      "release_id": "dg-000003",
+      "title": "Release 3",
+      "designer": "Hargrave",
+      "year": "2019",
+      "edition": "retail",
+      "mechanics": "Drafting",
+      "componentlist": [
+        "Main board",
+        "Rulebook",
+        "Meeples"
+      ]
+    },
+    {
+      "release_id": "dg-000004",
+      "title": "Release 4",
+      "designer": "Feld",
+      "year": "2023",
+      "edition": "deluxe",
+      "mechanics": "Drafting",
+      "componentlist": [
+        "Main board",
+        "Rulebook",
+        "Meeples"
+      ]
+    },
+    {
+      "release_id": "dg-000005",
+      "title": "Release 5",
+      "designer": "Feld",
+      "year": "2017",
+      "edition": "deluxe",
+      "mechanics": "Drafting",
+      "componentlist": [
+        "Main board",
+        "Rulebook",
+        "Meeples"
+      ]
+    }
+  ]
+}
