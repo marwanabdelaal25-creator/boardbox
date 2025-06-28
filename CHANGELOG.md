@@ -25,3 +25,4 @@
 ## 0.1.0 — 2024-09
 
 - Skeleton + game model
+- v0.3.0: schema v2
