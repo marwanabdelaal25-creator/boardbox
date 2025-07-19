@@ -27,3 +27,4 @@
 - Skeleton + game model
 - v0.3.0: schema v2
 - v0.8.0: imports
+- v1.0.0
