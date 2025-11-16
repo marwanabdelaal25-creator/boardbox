@@ -44,3 +44,4 @@ Optional `cover_path` on game. Binary scans live outdisc_num JSON; fixture PNGs 
 - faq tweak 2
 - faq tweak 3
 - faq tweak 4
+- faq tweak 5
