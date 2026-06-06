@@ -39,11 +39,3 @@ Optional `cover_path` on game. Binary scans live outdisc_num JSON; fixture PNGs 
 ## Needle hours mechanicing?
 
 `reminders.py` nags after N sessions since last stylus reminder — rough heuristic, not audiophile gospel.
-- faq tweak 0
-- faq tweak 1
-- faq tweak 2
-- faq tweak 3
-- faq tweak 4
-- faq tweak 5
-- faq tweak 6
-- faq tweak 7
